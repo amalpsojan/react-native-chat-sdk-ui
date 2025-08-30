@@ -383,4 +383,4 @@ See `dummy.ts` at project root for a comprehensive sample dataset, including ima
 
 ---
 
-If you have questions or need more integration points (theming, i18n, custom action sets), you can extend the components in `src/components/chat-sdk/components/` or override renderers via props. Happy building! 🎉 # react-native-chat-sdk-ui
+If you have questions or need more integration points (theming, i18n, custom action sets), you can extend the components in `src/components/chat-sdk/components/` or override renderers via props. Happy building! 🎉 
